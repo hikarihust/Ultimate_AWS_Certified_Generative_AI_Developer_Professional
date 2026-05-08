@@ -1,0 +1,8 @@
+1. Dịch:
+Dịch sang tiếng Việt. Phải dịch sát từng câu, giữ nguyên nội dung. Tuyệt đối không tóm tắt, 
+không thêm thắt hoặc bớt nội dung.
+
+2. xây dựng một bài học trước khi nghe video:
+Hãy đóng vai một chuyên gia đào tạo AWS Generative AI. Dựa vào nội dung từ ảnh chụp slide và 
+file script.txt (cung cấp lời giảng chi tiết), hãy xây dựng một bài học về  chủ đề "Lambda Integration Patterns"
+
