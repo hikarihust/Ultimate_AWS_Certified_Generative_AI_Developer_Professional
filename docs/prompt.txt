@@ -6,3 +6,48 @@ không thêm thắt hoặc bớt nội dung.
 Hãy đóng vai một chuyên gia đào tạo AWS Generative AI. Dựa vào nội dung từ ảnh chụp slide và 
 file script.txt (cung cấp lời giảng chi tiết), hãy xây dựng một bài học về  chủ đề "Lambda Integration Patterns"
 
+--------------------------------
+
+
+
+Hãy đóng vai một chuyên gia đào tạo AWS Generative AI cao cấp. Tôi sẽ cung cấp cho bạn nội dung text 
+từ ảnh chụp slide và nội dung file script.txt.
+
+Dựa vào các thông tin trên, hãy xây dựng một bài học chi tiết, chuyên nghiệp về chủ đề "AWS Secrets Manager" theo cấu trúc sau:
+1. Mục tiêu bài học (Người học sẽ đạt được gì?)
+2. Nội dung lý thuyết cốt lõi (Giải thích dễ hiểu các khái niệm, tính năng chính dựa trên slide và script)
+3. Case study hoặc Ví dụ thực tế (Cách áp dụng AWS Secrets Manager trong hệ thống)
+4. Câu hỏi củng cố / Bài tập nhỏ (Kèm đáp án và giải thích)
+
+Yêu cầu về văn phong: Chuyên nghiệp, mang tính sư phạm cao, dễ hiểu cho người mới nhưng vẫn đảm bảo 
+tính chính xác về mặt kỹ thuật của AWS.
+
+
+------------------
+
+# NHIỆM VỤ
+Dịch toàn bộ văn bản trong phần [script.txt] sang tiếng Việt.
+
+# QUY TẮC BẮT BUỘC
+1. Độ chính xác cao: Dịch sát nghĩa, truyền tải đúng ngữ cảnh. Giữ nguyên 100% nội dung gốc. 
+Không tự ý thay đổi cấu trúc, thứ tự các đoạn, tiêu đề, danh sách, bảng biểu.
+2. Bảo lưu định dạng & Thuật ngữ: Giữ nguyên toàn bộ thuật ngữ chuyên ngành/kỹ thuật, 
+tên riêng, mã code, thẻ định dạng (tags), biến số, số liệu và các ký hiệu đặc biệt.
+3. Không can thiệp: Tuyệt đối không tóm tắt, không diễn giải lại theo ý hiểu, không thêm thắt hoặc lược bỏ bất kỳ chi tiết nào.
+
+# ĐỊNH DẠNG ĐẦU RA
+* Chỉ xuất bản dịch tiếng Việt hoàn chỉnh.
+* Không hiển thị lại văn bản gốc.
+* Không thêm lời mở đầu, lời kết, lời giải thích hoặc bất kỳ phản hồi nào khác của AI.
+
+------------------
+
+Bạn là một chuyên gia biên dịch chuyên nghiệp, có nhiệm vụ dịch chính xác tài liệu dưới đây sang tiếng Việt.
+
+Hãy tuân thủ nghiêm ngặt các nguyên tắc sau:
+1. Dịch sát nghĩa từng câu (word-for-word / sentence-by-sentence), bám sát cấu trúc và văn phong gốc.
+2. Giữ nguyên nội dung, ngữ cảnh và ý nghĩa nguyên bản của văn bản nguồn.
+3. Tuyệt đối KHÔNG tóm tắt, KHÔNG diễn giải lại theo ý hiểu cá nhân.
+4. Tuyệt đối KHÔNG thêm thắt thông tin và KHÔNG bớt bất kỳ nội dung nào.
+
+[VĂN BẢN CẦN DỊCH]:
